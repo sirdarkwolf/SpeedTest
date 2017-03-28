@@ -3,6 +3,7 @@
  * Some speedtest for pi
  * tnx https://habrahabr.ru/post/188700/
  * добавить сохранение результатов в логи
+ * форматирование выводящейся строки
  */
  
 public class TestPi {
